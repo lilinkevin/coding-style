@@ -1,2 +1,4 @@
-# coding-style
-常用的语法规范
+coding-style
+============
+
+安居客代码规范
